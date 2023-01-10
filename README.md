@@ -1,3 +1,1 @@
-Programované pomocou micro:bit v JavaScripte
-
-- ALge
+Programované pomocou micro:bit v TypeScripte
